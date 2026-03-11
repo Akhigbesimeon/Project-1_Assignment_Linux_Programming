@@ -1,0 +1,13 @@
+                 w _ITM_deregisterTMCloneTable
+                 w _ITM_registerTMCloneTable
+                 w __cxa_finalize@GLIBC_2.2.5
+                 w __gmon_start__
+                 U __libc_start_main@GLIBC_2.34
+                 U __stack_chk_fail@GLIBC_2.4
+                 U close@GLIBC_2.2.5
+                 U fclose@GLIBC_2.2.5
+                 U fopen@GLIBC_2.2.5
+                 U open@GLIBC_2.2.5
+                 U puts@GLIBC_2.2.5
+                 U read@GLIBC_2.2.5
+                 U write@GLIBC_2.2.5
